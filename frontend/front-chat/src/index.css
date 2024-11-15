@@ -1,0 +1,43 @@
+:root {
+  --primary-font: "vazir";
+}
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  /* border: none; */
+  font-family: var(--primary-font);
+  outline: none;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f3f4f6;
+}
+
+*,
+*::after,
+*::before {
+  outline: none;
+  box-sizing: inherit;
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+  border: 0;
+}
+
+input {
+  all: unset;
+}
+
+a {
+  text-decoration: none;
+}
