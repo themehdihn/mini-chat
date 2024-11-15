@@ -18,8 +18,8 @@ A simple chat application built using **Socket.IO**, **Node.js**, **React.js**, 
 ## Screenshots
 
 <div align="center">
-  <img src="/screenshots/s1.png" width="300" height="370" alt="Screenshot 1">
-  <img src="/screenshots/s2.png" width="300" height="370" alt="Screenshot 2">
+  <img src="/screenshots/s1.png" width="300" height="400" alt="Screenshot 1">
+  <img src="/screenshots/s2.png" width="300" height="400" alt="Screenshot 2">
 </div>
 
 ---
@@ -49,6 +49,18 @@ A simple chat application built using **Socket.IO**, **Node.js**, **React.js**, 
    CREATE DATABASE your_database_name;
    ```
 2. Install dependencies for the app:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
+
+## Running the App
+
+- **BackEnd**: Run the following command to start the app:
+npm start    
+
+- **FrontEnd**: Run the following command to start the app:
+npm run dev  
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to Mini-Chat, please fork this repository, make your changes, and submit a pull request.
