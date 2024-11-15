@@ -18,8 +18,8 @@ A simple chat application built using **Socket.IO**, **Node.js**, **React.js**, 
 ## Screenshots
 
 <div align="center">
-  <img src="/screenshots/s1.png" width="650" height="720" alt="Screenshot 1">
-  <img src="/screenshots/s2.png" width="650" height="720" alt="Screenshot 2">
+  <img src="/screenshots/s1.png" width="300" height="370" alt="Screenshot 1">
+  <img src="/screenshots/s2.png" width="300" height="370" alt="Screenshot 2">
 </div>
 
 ---
@@ -27,7 +27,7 @@ A simple chat application built using **Socket.IO**, **Node.js**, **React.js**, 
 ## Technologies Used
 
 - **Frontend**: React.js
-- **Backend**: Node.js and Express.js
+- **Backend**: Node.js and Express.js 
 - **Database**: MySQL
 - **Real-Time Communication**: Socket.IO
 - **Styling**: CSS
@@ -42,11 +42,13 @@ A simple chat application built using **Socket.IO**, **Node.js**, **React.js**, 
 
 ---
 
-## Setup Instructions
-
-### 1. Database Configuration
+## Installation
 
 1. Install MySQL and create a database for the app:
    ```sql
    CREATE DATABASE your_database_name;
    ```
+2. Install dependencies for the app:
+```bash
+npm install
+```
