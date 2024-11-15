@@ -18,8 +18,8 @@ A simple chat application built using **Socket.IO**, **Node.js**, **React.js**, 
 ## Screenshots
 
 <div align="center">
-  <img src="/screenshots/s1.png" width="300" height="400" alt="Screenshot 1">
-  <img src="/screenshots/s2.png" width="300" height="400" alt="Screenshot 2">
+  <img src="/screenshots/s1.png" width="300" height="330" alt="Screenshot 1">
+  <img src="/screenshots/s2.png" width="300" height="330" alt="Screenshot 2">
 </div>
 
 ---
